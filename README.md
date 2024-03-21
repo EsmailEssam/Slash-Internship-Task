@@ -24,3 +24,5 @@
 
 https://github.com/EsmailEssam/Slash-Internship-Task/assets/73383924/276b0b6b-706a-4c1f-ad9c-1855b24ea976
 
+
+For more detailed information on the implementation and usage, please refer to the documentation provided.
