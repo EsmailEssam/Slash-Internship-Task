@@ -5,10 +5,10 @@
 ### Dataset Collection:
 - The dataset was sourced from various categories available on the Slash app.
 - It is categorized into four distinct classes:
-  - 0: Nutrition
-  - 1: Fashion
-  - 2: Games
-  - 3: Accessories
+  - 0: Fashion
+  - 1: Accessories
+  - 2: Beauty
+  - 3: Home
 
 ### Model Selection:
 - Developing a model from scratch poses challenges due to the limited dataset size.
