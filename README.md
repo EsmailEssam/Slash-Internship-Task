@@ -2,6 +2,10 @@
 
 ## Building a Product Image Classifier
 
+### Objective:
+The objective of this task is to develop a machine learning model capable of automatically categorizing product images into predefined groups such as fashion, nutrition, accessories, etc. This model will enhance the intelligence of an e-commerce application, providing users with more efficient browsing and search functionalities.
+
+
 ### Dataset Collection:
 - The dataset was sourced from various categories available on the Slash app.
 - It is categorized into four distinct classes:
